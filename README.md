@@ -8,6 +8,8 @@
 
 -[Source code](https://github.com/sumana-reddy/sr-nest-api)
 
+-[about in heroku](https://sr-nest-api.herokuapp.com/about)
+
 
 ## Installation
 
